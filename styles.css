@@ -55,3 +55,15 @@ section {
     align-items: center;
     
 }
+@media (max-width: 600px) {
+
+    section {
+        width: 15em;
+    }
+
+    .illustration {
+        width:15em;
+        
+    }
+
+}
