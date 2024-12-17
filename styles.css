@@ -42,6 +42,7 @@ section {
 }
 .content {
     color:var(--color-ltgrey);
+    text-align:justify;
 }
 .profile {
     height:3em;
